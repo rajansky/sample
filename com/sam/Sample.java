@@ -20,5 +20,14 @@ public class Sample {
 		
 		boolean h = f.isDirectory();
 		System.out.println(h);
+		
+		boolean d1=f.canWrite();
+		System.out.println(d);
+		
+		boolean e1 = f.isFile();
+		System.out.println(e);
+		
+		boolean h1 = f.isDirectory();
+		System.out.println(h);
 
 }}

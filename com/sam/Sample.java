@@ -27,7 +27,7 @@ public class Sample {
 		boolean e1 = f.isFile();
 		System.out.println(e);
 		
-		boolean h1 = f.isDirectory();
+		boolean h22 = f.isDirectory();
 		System.out.println(h);
 
 }}
